@@ -4,13 +4,19 @@ Welcome to the base structure repository for your Lyfter deliverables! 🎉
 
 This repository serves as a **reference** for how you should organize your own portfolio. Following this structure ensures that all your exercises are super organized and easy to navigate. 📂
 
+---
+
 ### Why is this important? 🌟
 Having a clean and structured repository helps both **employers** and **Lyfter reviewers** easily find and evaluate your amazing work! 💼
+
+---
 
 ### How to use this? 🛠️
 Simply use this folder organization as a guide when structuring your own repositories for your Lyfter assignments. 🗺️ 
 
 Create folders for each module (like `Python Basico`, `HTML`, `CSS`, etc.) just as you see them here, and save your exercises inside! 💻
+
+---
 
 ### Repository Structure Example 📂 
 
@@ -62,6 +68,9 @@ Lyfter_Exercises_Structure/
  └── Includes the rest of the modules...
 ```
 
-By keeping this structure, not only will you have an impressive and robust portfolio by the end of the program, but you'll also make it incredibly easy for the community, recruiters, and reviewers to see the amazing progress you make week after week. Let your code speak for itself! 💪
+> [!TIP]
+> By keeping this structure, not only will you have an impressive and robust portfolio by the end of the program, but you'll also make it incredibly easy for the community, recruiters, and reviewers to see the amazing progress you make week after week. Let your code speak for itself! 💪
+
+---
 
 Happy coding! 🔥
