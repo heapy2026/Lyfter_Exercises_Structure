@@ -45,25 +45,25 @@ Ejercicios_Lyfter/
  │      ├── Pseudocode/
  │      │        ├── Exercise1.txt
  │      │        ├── Exercise2.txt
- │      │        ├── 
+ │      │        ├── ...
  │      │        └── Exercise10.txt
  │      │
  │      ├── Pseudocode_Extra/
  │      │        ├── Exercise1.txt
  │      │        ├── Exercise2.txt
- │      │        ├── 
+ │      │        ├── ...
  │      │        └── Exercise10.txt
  │      │
  │      ├── Flowcharts/
  │      │        ├── Flowchart1.png
  │      │        ├── Flowchart2.png
- │      │        ├── 
+ │      │        ├── ...
  │      │        └── Flowchart10.png
  │      │
  │      └── Flowcharts_Extra/
  │               ├── Flowchart1.png
  │               ├── Flowchart2.png
- │               ├── 
+ │               ├── ...
  │               └── Flowchart10.png
  │ 
  ├── Python_Basics/
