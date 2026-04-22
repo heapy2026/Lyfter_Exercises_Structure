@@ -23,49 +23,77 @@ Create folders for each module (like `Python Basico`, `HTML`, `CSS`, etc.) just 
 Here is an example of how your repository should look:
 
 ```text
-Lyfter_Exercises_Structure/
- ├── IT Essentials/
- │      ├── Ejercicios de Algoritmos/
- │      │        ├── Analisis.txt
- │      │        ├── Diagrama_Logica.png
- │      │        ├── ...
- │      │        └── Explicacion_Algoritmo.docx      
+Ejercicios_Lyfter/
+ ├── IT_Essentials/
+ │      ├── Algorithms/
+ │      │        ├── Algorithm1.txt
+ │      │        └── Algorithm2.txt
  │      │
- │      ├── Ejercicios de Terminales/
- │      │        ├── Comandos_Basicos.txt
- │      │        ├── Captura_Terminal.png
- │      │        ├── ...
- │      │        └── Bitacora_Instalacion.docx
+ │      ├── Algorithms_Extra/
+ │      │        ├── Algorithm1.txt
+ │      │        └── Algorithm2.txt
  │      │
- │      └── Includes the rest of the exercises...
+ │      ├── Terminals/
+ │      │        ├── Commands.txt
+ │      │        └── Commands_Executed.pdf
+ │      │
+ │      └── Terminals_Extra/
+ │               ├── Commands.txt
+ │               └── Commands_Executed.pdf
  │
- ├── Logica de Programacion/
- │      ├── Pseudocodigo/
- │      │        ├── Solucion.png
- │      │        ├── ...
- │      │        └── Ejercicio.docx
+ ├── Programming_Logic/
+ │      ├── Pseudocode/
+ │      │        ├── Exercise1.txt
+ │      │        ├── Exercise2.txt
+ │      │        ├── 
+ │      │        └── Exercise10.txt
  │      │
- │      ├── Diagramas de Flujo/
- │      │        ├── Flujo.png
- │      │        ├── ... 
- │      │        └── Ejercicio.docx
+ │      ├── Pseudocode_Extra/
+ │      │        ├── Exercise1.txt
+ │      │        ├── Exercise2.txt
+ │      │        ├── 
+ │      │        └── Exercise10.txt
  │      │
- │      └── Includes the rest of the exercises...
+ │      ├── Flowcharts/
+ │      │        ├── Flowchart1.png
+ │      │        ├── Flowchart2.png
+ │      │        ├── 
+ │      │        └── Flowchart10.png
+ │      │
+ │      └── Flowcharts_Extra/
+ │               ├── Flowchart1.png
+ │               ├── Flowchart2.png
+ │               ├── 
+ │               └── Flowchart10.png
  │ 
- ├── Python Basico/
- │       ├── Introduccion a Python/
- │       │       ├── hello_world.py
- │       │       ├── ...
- │       │       └── prints.py
- │       │ 
- │       ├── Sintaxis/
- │       │       ├── sumas.py
- │       │       ├── ...
- │       │       └── condicionales.py
+ ├── Python_Basics/
+ │       ├── Intro_to_Python/
+ │       │       ├── exercise1.py
+ │       │       ├── exercise2.py
+ │       │       └── exercise3.py
  │       │
- │       └── Includes the rest of the exercises...
+ │       ├── Intro_to_Python_Extra/
+ │       │       ├── exercise1.py
+ │       │       ├── exercise2.py
+ │       │       └── exercise3.py
+ │       │ 
+ │       ├── Syntax/
+ │       │       ├── exercise1.py
+ │       │       ├── exercise2.py
+ │       │       ├── exercise3.py
+ │       │       ├── exercise4.py
+ │       │       └── exercise5.py
+ │       │
+ │       ├── Syntax_Extra/
+ │       │       ├── exercise1.py
+ │       │       ├── exercise2.py
+ │       │       ├── exercise3.py
+ │       │       ├── exercise4.py
+ │       │       └── exercise5.py
+ │       │
+ │       └── * Include the rest of the exercises...
  │
- └── Includes the rest of the modules...
+ └── * Include the rest of the modules...
 ```
 
 > [!TIP]
